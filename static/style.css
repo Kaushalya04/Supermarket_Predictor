@@ -1,0 +1,904 @@
+html {
+    scroll-behavior: smooth;
+}
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+
+body {
+
+    background:#0f172a;
+    color:white;
+
+}
+
+
+/* Modern Sidebar */
+
+
+.sidebar {
+
+    position:fixed;
+
+    left:0;
+
+    top:0;
+
+    width:250px;
+
+    height:100vh;
+
+    background:
+
+    linear-gradient(
+        180deg,
+        #111827,
+        #0f172a
+    );
+
+
+    padding:30px 20px;
+
+    border-right:1px solid #334155;
+
+
+}
+
+
+
+.logo {
+
+
+    font-size:32px;
+
+    font-weight:bold;
+
+    color:#a78bfa;
+
+}
+
+
+
+.subtitle {
+
+
+    color:#94a3b8;
+
+    margin-top:8px;
+
+    font-size:14px;
+
+
+}
+
+
+
+.sidebar hr {
+
+
+    border:none;
+
+    height:1px;
+
+    background:#334155;
+
+    margin:25px 0;
+
+
+}
+
+
+
+.menu a {
+
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+
+    padding:14px 15px;
+
+    margin-bottom:12px;
+
+
+    color:#cbd5e1;
+
+    text-decoration:none;
+
+
+    border-radius:12px;
+
+
+    transition:0.3s;
+
+
+}
+
+
+
+
+.menu a:hover {
+
+
+    background:#312e81;
+
+    color:white;
+
+    transform:translateX(5px);
+
+
+}
+
+
+
+
+.sidebar-footer {
+
+
+    position:absolute;
+
+    bottom:30px;
+
+
+    color:#64748b;
+
+
+}
+
+
+
+.sidebar-footer small {
+
+
+    color:#8b5cf6;
+
+
+}
+
+
+/* Active Menu */
+
+.sidebar a:first-of-type {
+
+
+    background:#312e81;
+
+
+    color:white;
+
+
+}
+
+
+
+
+
+/* Small icon style */
+
+
+.sidebar a::before {
+
+
+    content:"";
+
+    width:8px;
+
+    height:8px;
+
+    background:#8b5cf6;
+
+    border-radius:50%;
+
+
+}
+
+
+/* Main */
+
+.main {
+
+    margin-left:250px;
+    padding:35px;
+
+}
+
+
+.main h1 {
+
+    margin-bottom:25px;
+
+}
+
+
+
+
+/* Welcome */
+
+.welcome {
+
+    background:linear-gradient(
+        135deg,
+        #312e81,
+        #1e293b
+    );
+
+    padding:30px;
+    border-radius:20px;
+
+}
+
+
+.welcome button {
+
+    margin-top:20px;
+    padding:12px 25px;
+    border:none;
+    border-radius:10px;
+    background:#8b5cf6;
+    color:white;
+    cursor:pointer;
+
+}
+
+
+
+.welcome button:hover,
+.prediction button:hover {
+
+    background:#7c3aed;
+    transform:scale(1.02);
+
+}
+
+
+
+/* Cards */
+
+
+.cards {
+
+    display:flex;
+    gap:20px;
+    margin-top:30px;
+
+}
+
+
+
+.card {
+
+    background:#1e293b;
+    padding:25px;
+    border-radius:20px;
+    width:33%;
+
+}
+
+
+
+.card h1 {
+
+    margin-top:15px;
+    font-size:35px;
+    color:#a78bfa;
+
+}
+
+
+.card p {
+
+    color:#94a3b8;
+
+}
+
+
+
+
+
+/* Customer Insights */
+
+
+.insights {
+
+    background:#1e293b;
+    margin-top:30px;
+    padding:30px;
+    border-radius:20px;
+
+}
+
+
+
+.insights h2 {
+
+    margin-bottom:20px;
+
+}
+
+
+
+.insight-cards {
+
+    display:flex;
+    gap:20px;
+
+}
+
+
+
+.insight-card {
+
+    background:#111827;
+    padding:25px;
+    border-radius:15px;
+    flex:1;
+
+}
+
+
+
+.insight-card h3 {
+
+    color:#94a3b8;
+
+}
+
+
+
+.insight-card h1 {
+
+    margin-top:15px;
+    color:#a78bfa;
+    font-size:28px;
+
+}
+
+
+
+.insight-card p {
+
+    color:#94a3b8;
+    margin-top:10px;
+
+}
+
+
+
+
+/* Model and Prediction */
+
+
+.model-box,
+.prediction {
+
+    background:#1e293b;
+    margin-top:30px;
+    padding:30px;
+    border-radius:20px;
+
+}
+
+
+
+
+/* Form */
+
+
+label {
+
+    display:block;
+    margin-top:15px;
+
+}
+
+
+
+select {
+
+    width:100%;
+    padding:12px;
+    margin-top:5px;
+    border-radius:10px;
+    border:none;
+    background:white;
+    color:black;
+    font-size:16px;
+
+}
+
+
+
+select option {
+
+    color:black;
+    background:white;
+
+}
+
+
+
+
+.prediction button {
+
+    width:100%;
+    margin-top:25px;
+    padding:15px;
+    background:#8b5cf6;
+    color:white;
+    border:none;
+    border-radius:10px;
+    font-size:18px;
+    cursor:pointer;
+
+}
+
+
+
+
+/* Chart */
+
+
+.chart-container {
+
+    width:80%;
+    height:350px;
+    margin:auto;
+
+}
+
+
+canvas {
+
+    background:#1e293b;
+
+}
+
+
+
+
+
+/* Result */
+
+
+.result-card {
+
+    margin-top:30px;
+    padding:25px;
+    background:#111827;
+    border-radius:20px;
+    text-align:center;
+    border:1px solid #334155;
+
+}
+
+
+
+.result-card h3 {
+
+    color:#94a3b8;
+    margin-bottom:15px;
+
+}
+
+
+
+.result-card h2 {
+
+    color:#a78bfa;
+    font-size:30px;
+
+}
+
+
+
+.result-card p {
+
+    color:#94a3b8;
+    margin-top:10px;
+
+}
+
+
+
+#result {
+
+    margin-top:25px;
+    color:#34d399;
+
+}
+
+
+
+/* Animation */
+
+
+.result-card {
+
+    animation:fadeIn 0.5s ease-in-out;
+
+}
+
+
+
+@keyframes fadeIn {
+
+
+    from {
+
+        opacity:0;
+        transform:translateY(10px);
+
+    }
+
+
+    to {
+
+        opacity:1;
+        transform:translateY(0);
+
+    }
+
+}
+
+
+
+/* Mobile */
+
+@media(max-width:800px){
+
+
+    .sidebar {
+
+        width:100%;
+        height:auto;
+        position:relative;
+
+    }
+
+
+    .main {
+
+        margin-left:0;
+        padding:20px;
+
+    }
+
+
+    .cards,
+    .insight-cards {
+
+        flex-direction:column;
+
+    }
+
+
+    .card,
+    .insight-card {
+
+        width:100%;
+
+    }
+
+
+}
+/* Analytics Section */
+
+
+.analytics-box {
+
+
+    background:#1e293b;
+
+    margin-top:30px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+
+}
+
+
+
+.evaluation-cards {
+
+
+    display:flex;
+
+    gap:20px;
+
+    margin-top:20px;
+
+
+}
+
+
+
+.evaluation-card {
+
+
+    background:#111827;
+
+    padding:25px;
+
+    border-radius:15px;
+
+    flex:1;
+
+
+}
+
+
+
+.evaluation-card h3 {
+
+
+    color:#94a3b8;
+
+
+}
+
+
+
+.evaluation-card h1 {
+
+
+    color:#a78bfa;
+
+    margin-top:15px;
+
+
+}
+/* Supermarket Chart */
+
+
+#supermarketChart {
+
+
+    max-height:350px;
+
+
+}
+/* Prediction History */
+
+
+.history-box {
+
+
+    background:#1e293b;
+
+    margin-top:30px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+
+}
+
+
+
+.history-box h2 {
+
+
+    margin-bottom:20px;
+
+
+}
+
+
+
+table {
+
+
+    width:100%;
+
+    border-collapse:collapse;
+
+
+}
+
+
+
+th {
+
+
+    background:#111827;
+
+    padding:15px;
+
+    color:#a78bfa;
+
+
+}
+
+
+
+td {
+
+
+    padding:15px;
+
+    border-bottom:1px solid #334155;
+
+    color:#cbd5e1;
+
+
+}
+/* About Model Cards */
+
+
+.about-box {
+
+    background:#1e293b;
+
+    margin-top:30px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+}
+
+
+
+.about-box h2 {
+
+    margin-bottom:25px;
+
+}
+
+
+
+.about-cards {
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+
+
+.about-card {
+
+
+    flex:1;
+
+    background:#111827;
+
+    padding:25px;
+
+    border-radius:18px;
+
+    text-align:center;
+
+    transition:0.3s;
+
+
+}
+
+
+
+.about-card:hover {
+
+
+    transform:translateY(-8px);
+
+    background:#172554;
+
+
+}
+
+
+
+.about-icon {
+
+
+    font-size:35px;
+
+    margin-bottom:15px;
+
+
+}
+
+
+
+.about-card h3 {
+
+
+    color:#94a3b8;
+
+    font-size:17px;
+
+
+}
+
+
+
+.about-card h1 {
+
+
+    color:#a78bfa;
+
+    font-size:32px;
+
+    margin:15px 0;
+
+
+}
+
+
+
+.about-card p {
+
+
+    color:#94a3b8;
+
+
+}
+/* Dashboard Status Bar */
+
+
+.status-bar {
+
+
+    display:flex;
+
+    gap:20px;
+
+    margin-bottom:30px;
+
+
+}
+
+
+
+.status-item {
+
+
+    background:#1e293b;
+
+
+    padding:20px;
+
+
+    border-radius:15px;
+
+
+    flex:1;
+
+
+    color:#94a3b8;
+
+
+    border:1px solid #334155;
+
+
+}
+
+
+
+.status-item strong {
+
+
+    display:block;
+
+
+    margin-top:10px;
+
+
+    font-size:22px;
+
+
+    color:#a78bfa;
+
+
+}

@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Supermarket Predictor Dashboard</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Chart JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+</head>
+
+
+<body>
+
+
+<div class="sidebar">
+
+
+    <div class="logo">
+
+        🛒 SMP
+
+    </div>
+
+
+    <p class="subtitle">
+        Supermarket Predictor
+    </p>
+
+
+
+    <hr>
+
+
+
+
+    <div class="menu">
+
+
+        <a href="#">
+
+            📊 Dashboard
+
+        </a>
+
+
+
+        <a href="#prediction">
+
+            🔮 Prediction
+
+        </a>
+
+
+
+
+        <a href="#analytics">
+
+            📈 Analytics
+
+        </a>
+
+
+
+
+        <a href="#about">
+
+            🤖 Model Info
+
+        </a>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="main">
+
+
+    <h1>Supermarket Predictor Analytics</h1>
+    <div class="status-bar">
+
+
+    <div class="status-item">
+
+        🟢 System Status
+
+        <strong>
+            Active
+        </strong>
+
+    </div>
+
+
+
+    <div class="status-item">
+
+        🤖 Model
+
+        <strong>
+            SVM
+        </strong>
+
+    </div>
+
+
+
+
+    
+    <div class="status-item">
+
+        ⚡ Prediction
+
+        <strong>
+            Ready
+        </strong>
+
+    </div>
+
+
+
+</div>
+
+
+
+    <div class="welcome">
+
+
+        <h2>Welcome to Supermarket Predictor</h2>
+
+
+        <p>
+            Predict customer supermarket preferences using Machine Learning.
+        </p>
+
+
+
+        <button onclick="scrollToPrediction()">
+
+            Predict Supermarket
+
+        </button>
+
+
+    </div>
+
+
+
+
+
+    <div class="cards">
+
+
+        <div class="card">
+
+            <h3>Total Customers</h3>
+
+            <h1>509</h1>
+
+            <p>Dataset Records</p>
+
+        </div>
+
+
+
+
+        <div class="card">
+
+            <h3>Best Model</h3>
+
+            <h1>SVM</h1>
+
+            <p>Selected ML Model</p>
+
+        </div>
+
+
+
+
+
+        <div class="card">
+
+            <h3>Accuracy</h3>
+
+            <h1>24.51%</h1>
+
+            <p>Model Performance</p>
+
+        </div>
+
+
+    </div>
+    <!-- Analytics Section -->
+
+<div class="analytics-box">
+
+    <h2>Model Evaluation</h2>
+
+
+    <div class="evaluation-cards">
+
+
+        <div class="evaluation-card">
+
+            <h3>Best Algorithm</h3>
+
+            <h1>SVM</h1>
+
+        </div>
+
+
+
+        <div class="evaluation-card">
+
+            <h3>Accuracy</h3>
+
+            <h1>24.51%</h1>
+
+        </div>
+
+
+
+        <div class="evaluation-card">
+
+            <h3>F1 Score</h3>
+
+            <h1>0.19</h1>
+
+        </div>
+
+
+    </div>
+    <!-- Supermarket Preference Chart -->
+
+<div class="analytics-box">
+
+
+    <h2>Supermarket Preference Distribution</h2>
+
+
+    <div class="chart-container">
+
+
+        <canvas id="supermarketChart"></canvas>
+
+
+    </div>
+
+
+</div>
+
+
+</div>
+
+
+
+<!-- Customer Insights -->
+
+<div class="insights">
+
+
+    <h2>Customer Insights</h2>
+
+
+    <div class="insight-cards">
+
+
+        <div class="insight-card">
+
+            <h3>Most Preferred Store</h3>
+
+            <h1>Cargills Food City</h1>
+
+            <p>Based on customer dataset</p>
+
+        </div>
+
+
+
+
+        <div class="insight-card">
+
+            <h3>Dataset Size</h3>
+
+            <h1>509</h1>
+
+            <p>Total customer records</p>
+
+        </div>
+
+
+
+
+        <div class="insight-card">
+
+            <h3>Features Used</h3>
+
+            <h1>8</h1>
+
+            <p>ML input features</p>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+    <div class="model-box" id="analytics">
+
+
+        <h2>Model Performance</h2>
+
+
+
+        <div class="chart-container">
+
+
+            <canvas id="modelChart"></canvas>
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="prediction" id="prediction">
+
+
+        <h2>
+            Predict Customer Supermarket Preference
+        </h2>
+
+
+
+
+
+        <label>Age</label>
+
+        <select id="Age">
+
+            <option>Below 18</option>
+            <option>18-25</option>
+            <option>26-35</option>
+            <option>36-45</option>
+            <option>45-55</option>
+            <option>above 55</option>
+
+        </select>
+
+
+
+
+
+        <label>Gender</label>
+
+        <select id="Gender">
+
+            <option>Male</option>
+            <option>Female</option>
+            <option>Prefer not to say</option>
+
+        </select>
+
+
+
+
+
+
+        <label>Income</label>
+
+        <select id="Monthly_Income_(LKR)">
+
+            <option>Below 30,000</option>
+            <option>30,000 - 50,000</option>
+            <option>50,001 - 80,000</option>
+            <option>Above 80,000</option>
+
+        </select>
+
+
+
+
+
+
+
+        <label>Family Size</label>
+
+        <select id="Family_Size">
+
+            <option>1-2 people</option>
+            <option>3-4 people</option>
+            <option>5+ people</option>
+
+        </select>
+
+
+
+
+
+
+
+        <label>Residential Area</label>
+
+        <select id="Residential_Area">
+
+            <option>Urban</option>
+            <option>Rural</option>
+            <option>Suburban</option>
+
+        </select>
+
+
+
+
+
+
+
+        <label>Budget</label>
+
+        <select id="Budget_(LKR)">
+
+            <option>Below 10,000</option>
+            <option>10,000 - 20,000</option>
+            <option>20,000 - 40,000</option>
+            <option>Above 40,000</option>
+
+        </select>
+
+
+
+
+
+
+
+
+        <label>Frequency</label>
+
+        <select id="Frequency">
+
+            <option>Weekly</option>
+            <option>Bi-weekly</option>
+            <option>Monthly</option>
+            <option>Less than once a month</option>
+
+        </select>
+
+
+
+
+
+
+
+        <label>Transport</label>
+
+        <select id="Transport">
+
+            <option>Walking</option>
+            <option>Private Vehicle</option>
+            <option>Public Transport</option>
+            <option>Taxi / Ride-hailing</option>
+            <option>Other</option>
+
+        </select>
+
+
+
+
+
+
+
+
+        <button onclick="predict()">
+
+            Predict
+
+        </button>
+
+
+
+
+
+
+
+        <div class="result-card">
+
+
+            <h3>
+                Prediction Result
+            </h3>
+
+
+
+            <h2 id="result">
+
+                🛒 Waiting for prediction...
+
+            </h2>
+
+        </div>
+ </div>
+   <!-- Prediction History -->
+
+<div class="history-box">
+
+    <h2>Prediction History</h2>
+
+
+    <table>
+
+
+        <thead>
+
+            <tr>
+
+                <th>Age</th>
+
+                <th>Gender</th>
+
+                <th>Income</th>
+
+                <th>Prediction</th>
+
+            </tr>
+
+        </thead>
+
+
+
+        <tbody id="historyTable">
+
+
+        </tbody>
+
+
+    </table>
+
+
+</div>
+<!-- About Model Section -->
+
+<div class="about-box" id="about">
+
+    <h2>About Machine Learning Model</h2>
+
+
+    <div class="about-cards">
+
+
+        <div class="about-card">
+
+            <div class="about-icon">
+                📂
+            </div>
+
+            <h3>Dataset</h3>
+
+            <h1>509</h1>
+
+            <p>
+                Customer Records
+            </p>
+
+        </div>
+
+
+
+
+        <div class="about-card">
+
+            <div class="about-icon">
+                🤖
+            </div>
+
+            <h3>Models Tested</h3>
+
+            <h1>4</h1>
+
+            <p>
+                ML Algorithms
+            </p>
+
+        </div>
+
+
+
+
+
+        <div class="about-card">
+
+            <div class="about-icon">
+                ⭐
+            </div>
+
+            <h3>Best Model</h3>
+
+            <h1>SVM</h1>
+
+            <p>
+                Selected Algorithm
+            </p>
+
+        </div>
+
+
+
+
+
+        <div class="about-card">
+
+            <div class="about-icon">
+                🎯
+            </div>
+
+            <h3>Accuracy</h3>
+
+            <h1>24.51%</h1>
+
+            <p>
+                Model Performance
+            </p>
+
+        </div>
+
+
+
+    </div>
+
+
+</div>
+</div>
+
+
+
+
+
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+
+</body>
+
+</html>

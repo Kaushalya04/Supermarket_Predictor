@@ -1,0 +1,521 @@
+Age,Gender  ,Monthly Income (LKR)  ,Family Size  ,Residential Area  , Budget (LKR)  ,Frequency,Transport,Supermarket
+18-25,Female,"Below 30,000",1-2 people,Rural,"Below 10,000",Bi-weekly,Walking,Spar Super Markert
+18-25,Female,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Private Vehicle,Keells
+18-25,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Walking,Sathosa
+18-25,Male,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+18-25,Female,"50,001 - 80,000",3-4 people,Suburban,"Above 40,000",Monthly,Public Transport,Cargills FoodCity
+18-25,Female,"Below 30,000",5-6 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+18-25,Male,"Above 120,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"Above 120,000",5-6 people,Suburban,"Above 40,000",Bi-weekly,Private Vehicle,Keells
+18-25,Female,"Above 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Keells
+18-25,Male,"Below 30,000",3-4 people,Suburban,"Above 40,000",Weekly,Private Vehicle,Cargills FoodCity
+18-25,Female,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Keells
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"Below 10,000",Weekly,Public Transport,Cargills FoodCity
+above 55,Male,"50,001 - 80,000",1-2 people,Rural,"Below 10,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Private Vehicle,Arpico
+above 55,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+18-25,Female,"Below 30,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Keells
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Arpico
+45-55,Female,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Bi-weekly,Public Transport,Arpico
+45-55,Female,"Below 30,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+45-55,Male,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Glomark
+36-45,Female,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sathosa
+45-55,Male,"Above 120,000",More than 6 people,Suburban,"Above 40,000",Weekly,Private Vehicle,Sathosa
+18-25,Female,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"80,001 - 120,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+36-45,Female,"50,001 - 80,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Arpico
+Below 18,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Walking,Keells
+18-25,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+above 55,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Walking,Co-operative stores
+above 55,Female,"50,001 - 80,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sathosa
+Below 18,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+Below 18,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+45-55,Female,"50,001 - 80,000",5-6 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Co-operative stores
+Below 18,Male,"Below 30,000",1-2 people,Rural,"Below 10,000",Weekly,Public Transport,Sathosa
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+45-55,Male,"50,001 - 80,000",5-6 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+18-25,Female,"Below 30,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Cargills FoodCity
+26-35,Male,"80,001 - 120,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Private Vehicle,Spar Super Markert
+Below 18,Male,"Below 30,000",3-4 people,Suburban,"Below 10,000",Less than once a month,Public Transport,Sathosa
+18-25,Female,"80,001 - 120,000",1-2 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+18-25,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Taxi / Ride-hailing,Sathosa
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+36-45,Female,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Sampath
+18-25,Female,"80,001 - 120,000",3-4 people,Rural,"10,000 - 20,000",Less than once a month,Walking,Spar Super Markert
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"Below 10,000",Weekly,Public Transport,Sathosa
+36-45,Female,"Above 120,000",More than 6 people,Rural,"Above 40,000",Monthly,Private Vehicle,Keells
+36-45,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+above 55,Female,"50,001 - 80,000",5-6 people,Urban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+Below 18,Female,"Below 30,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Arpico
+45-55,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Sathosa
+26-35,Female,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Walking,Sathosa
+above 55,Female,"80,001 - 120,000",5-6 people,Rural,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sathosa
+45-55,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Spar Super Markert
+Below 18,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Arpico
+36-45,Female,"Below 30,000",1-2 people,Rural,"Below 10,000",Monthly,Taxi / Ride-hailing,Keells
+45-55,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Female,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Spar Super Markert
+Below 18,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Keells
+above 55,Female,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Arpico
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Keells
+36-45,Male,"Above 120,000",3-4 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+Below 18,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+above 55,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Less than once a month,Taxi / Ride-hailing,Sathosa
+above 55,Male,"30,000 - 50,000",1-2 people,Rural,"Below 10,000",Monthly,Public Transport,Sathosa
+18-25,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Keells
+18-25,Female,"30,000 - 50,000",5-6 people,Rural,"10,000 - 20,000",Monthly,Public Transport,Keells
+18-25,Male,"80,001 - 120,000",5-6 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+45-55,Male,"80,001 - 120,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Private Vehicle,"Jayathissa Stores, Meerigama. "
+45-55,Male,"Above 120,000",5-6 people,Urban,"Above 40,000",Weekly,Private Vehicle,Keells
+Below 18,Female,"Below 30,000",1-2 people,Suburban,"Below 10,000",Weekly,Public Transport,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Less than once a month,Public Transport,Arpico
+18-25,Male,"Below 30,000",3-4 people,Urban,"Below 10,000",Weekly,Private Vehicle,Cargills FoodCity
+45-55,Female,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",1-2 people,Urban,"Below 10,000",Weekly,Public Transport,Keells
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Sathosa
+Below 18,Female,"Below 30,000",1-2 people,Urban,"Below 10,000",Monthly,Private Vehicle,Cargills FoodCity
+above 55,Female,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Weekly,Public Transport,Keells
+18-25,Female,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Private Vehicle,Cargills FoodCity
+Below 18,Female,"30,000 - 50,000",1-2 people,Suburban,"Below 10,000",Weekly,Private Vehicle,Arpico
+18-25,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+36-45,Female,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Less than once a month,Private Vehicle,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Rural,"Below 10,000",Monthly,Private Vehicle,Keells
+18-25,Male,"Below 30,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Keells
+Below 18,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Private Vehicle,Keells
+36-45,Male,"Below 30,000",5-6 people,Rural,"Below 10,000",Weekly,Private Vehicle,Keells
+Below 18,Female,"Below 30,000",1-2 people,Suburban,"Below 10,000",Monthly,Taxi / Ride-hailing,Arpico
+18-25,Female,"80,001 - 120,000",3-4 people,Rural,"20,001 - 40,000",Monthly,Public Transport,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+above 55,Female,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Arpico
+36-45,Male,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Keells
+36-45,Female,"50,001 - 80,000",5-6 people,Rural,"10,000 - 20,000",Bi-weekly,Walking,Sathosa
+above 55,Female,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Spar Super Markert
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+18-25,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+18-25,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+45-55,Female,"Above 120,000",3-4 people,Suburban,"Above 40,000",Weekly,Private Vehicle,Keells
+45-55,Female,"80,001 - 120,000",5-6 people,Urban,"20,001 - 40,000",Weekly,Private Vehicle,Cargills FoodCity
+above 55,Male,"80,001 - 120,000",5-6 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Cargills FoodCity
+18-25,Female,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Walking,Arpico
+26-35,Female,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Monthly,Public Transport,Keells
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Sathosa
+36-45,Male,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+Below 18,Male,"Below 30,000",1-2 people,Rural,"Below 10,000",Monthly,Public Transport,Sathosa
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+above 55,Male,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+26-35,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Sathosa
+36-45,Female,"30,000 - 50,000",1-2 people,Rural,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Sathosa
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"Below 10,000",Monthly,Taxi / Ride-hailing,Cargills FoodCity
+26-35,Male,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Arpico
+26-35,Male,"Above 120,000",3-4 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+36-45,Female,"Above 120,000",More than 6 people,Suburban,"Above 40,000",Bi-weekly,Private Vehicle,Keells
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+above 55,Male,"80,001 - 120,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Sathosa
+above 55,Male,"80,001 - 120,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Keells
+36-45,Male,"Above 120,000",3-4 people,Urban,"Above 40,000",Monthly,Private Vehicle,Spar Super Markert
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+18-25,Female,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+26-35,Male,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+Below 18,Male,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Arpico
+26-35,Female,"50,001 - 80,000",More than 6 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+45-55,Male,"Above 120,000",More than 6 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+Below 18,Female,"30,000 - 50,000",1-2 people,Rural,"10,000 - 20,000",Monthly,Private Vehicle,Cargills FoodCity
+45-55,Male,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Sathosa
+36-45,Male,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Keells
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+18-25,Female,"Below 30,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Ashoka FoodCity
+Below 18,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+above 55,Male,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+36-45,Female,"50,001 - 80,000",1-2 people,Rural,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+36-45,Female,"Above 120,000",3-4 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Keells
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+26-35,Male,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+above 55,Male,"30,000 - 50,000",1-2 people,Rural,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+26-35,Female,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Arpico
+Below 18,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+18-25,Male,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Monthly,Private Vehicle,Cargills FoodCity
+45-55,Male,"50,001 - 80,000",1-2 people,Rural,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+26-35,Male,"80,001 - 120,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Cargills FoodCity
+above 55,Male,"Above 120,000",More than 6 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+36-45,Female,"80,001 - 120,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+18-25,Male,"Above 120,000",5-6 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Keells
+18-25,Male,"Above 120,000",5-6 people,Urban,"Above 40,000",Weekly,Walking,Spar Super Markert
+36-45,Male,"Below 30,000",3-4 people,Suburban,"Above 40,000",Bi-weekly,Public Transport,Arpico
+26-35,Male,"80,001 - 120,000",5-6 people,Urban,"20,001 - 40,000",Weekly,Public Transport,Sathosa
+45-55,Male,"Above 120,000",3-4 people,Rural,"10,000 - 20,000",Less than once a month,Public Transport,Cargills FoodCity
+18-25,Female,"50,001 - 80,000",5-6 people,Rural,"Below 10,000",Weekly,Private Vehicle,Sathosa
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Walking,Sathosa
+26-35,Male,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+36-45,Female,"80,001 - 120,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+26-35,Male,"30,000 - 50,000",1-2 people,Suburban,"Below 10,000",Bi-weekly,Walking,Sathosa
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"Below 10,000",Monthly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+45-55,Male,"80,001 - 120,000",5-6 people,Rural,"Above 40,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+26-35,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Glomark
+26-35,Female,"Below 30,000",1-2 people,Urban,"Below 10,000",Bi-weekly,Walking,Sampath
+18-25,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Less than once a month,Taxi / Ride-hailing,Spar Super Markert
+18-25,Female,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Glomark
+45-55,Male,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+45-55,Male,"80,001 - 120,000",1-2 people,Rural,"Above 40,000",Less than once a month,Taxi / Ride-hailing,Keells
+45-55,Male,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Arpico
+Below 18,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Sampath
+45-55,Female,"80,001 - 120,000",5-6 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Sathosa
+36-45,Female,"80,001 - 120,000",3-4 people,Rural,"20,001 - 40,000",Monthly,Walking,Arpico
+45-55,Female,"80,001 - 120,000",1-2 people,Rural,"10,000 - 20,000",Bi-weekly,Other,Sathosa
+45-55,Male,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Less than once a month,Walking,Glomark
+26-35,Male,"Below 30,000",1-2 people,Suburban,"Below 10,000",Weekly,Public Transport,Sampath
+45-55,Female,"80,001 - 120,000",5-6 people,Rural,"20,001 - 40,000",Less than once a month,Taxi / Ride-hailing,Spar Super Markert
+18-25,Female,"50,001 - 80,000",1-2 people,Rural,"Above 40,000",Monthly,Other,Spar Super Markert
+36-45,Female,"Below 30,000",1-2 people,Rural,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+36-45,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Private Vehicle,Glomark
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Sathosa
+18-25,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Other,Keells
+18-25,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+45-55,Female,"80,001 - 120,000",More than 6 people,Rural,"20,001 - 40,000",Less than once a month,Walking,Arpico
+above 55,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Walking,Arpico
+45-55,Female,"80,001 - 120,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+36-45,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Spar Super Markert
+45-55,Male,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+26-35,Male,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+18-25,Male,"80,001 - 120,000",3-4 people,Rural,"Above 40,000",Monthly,Public Transport,Cargills FoodCity
+26-35,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+18-25,Prefer not to say,"80,001 - 120,000",3-4 people,Urban,"Below 10,000",Weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Sampath
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"Above 40,000",Monthly,Public Transport,Cargills FoodCity
+Below 18,Male,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Sathosa
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Walking,Glomark
+45-55,Female,"50,001 - 80,000",3-4 people,Rural,"Below 10,000",Bi-weekly,Public Transport,Arpico
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Arpico
+18-25,Male,"Below 30,000",3-4 people,Suburban,"Below 10,000",Monthly,Private Vehicle,Cargills FoodCity
+36-45,Female,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Walking,Spar Super Markert
+above 55,Female,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Walking,Spar Super Markert
+36-45,Female,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Walking,Arpico
+45-55,Female,"80,001 - 120,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Walking,Sathosa
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Spar Super Markert
+26-35,Female,"80,001 - 120,000",5-6 people,Rural,"Below 10,000",Bi-weekly,Public Transport,Sathosa
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Walking,Sathosa
+45-55,Male,"Above 120,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+26-35,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Public Transport,Sampath
+18-25,Male,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Walking,Arpico
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",5-6 people,Rural,"10,000 - 20,000",Less than once a month,Walking,Arpico
+36-45,Female,"80,001 - 120,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+36-45,Male,"80,001 - 120,000",1-2 people,Suburban,"10,000 - 20,000",Monthly,Walking,Cargills FoodCity
+36-45,Female,"80,001 - 120,000",More than 6 people,Urban,"Above 40,000",Less than once a month,Taxi / Ride-hailing,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Walking,Sathosa
+45-55,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Arpico
+45-55,Male,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Sampath
+45-55,Female,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+26-35,Male,"30,000 - 50,000",5-6 people,Urban,"20,001 - 40,000",Bi-weekly,Public Transport,Sathosa
+26-35,Female,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Glomark
+18-25,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Private Vehicle,Spar Super Markert
+36-45,Male,"30,000 - 50,000",3-4 people,Urban,"20,001 - 40,000",Less than once a month,Public Transport,Keells
+36-45,Female,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Keells
+36-45,Male,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Arpico
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Rural,"20,001 - 40,000",Monthly,Private Vehicle,Spar Super Markert
+36-45,Female,"80,001 - 120,000",More than 6 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"Below 10,000",Weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+18-25,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Spar Super Markert
+26-35,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Sampath
+Below 18,Female,"Below 30,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+26-35,Female,"80,001 - 120,000",5-6 people,Suburban,"Below 10,000",Weekly,Public Transport,Keells
+36-45,Female,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Weekly,Public Transport,Arpico
+36-45,Female,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+18-25,Male,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Monthly,Taxi / Ride-hailing,Keells
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+36-45,Female,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Sathosa
+45-55,Male,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Keells
+18-25,Male,"50,001 - 80,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Walking,Keells
+18-25,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Less than once a month,Private Vehicle,Arpico
+Below 18,Female,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Cargills FoodCity
+36-45,Female,"80,001 - 120,000",3-4 people,Rural,"Above 40,000",Weekly,Public Transport,Arpico
+26-35,Male,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+45-55,Male,"80,001 - 120,000",5-6 people,Urban,"Above 40,000",Bi-weekly,Private Vehicle,Sampath
+18-25,Female,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Less than once a month,Other,Spar Super Markert
+36-45,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Keells
+36-45,Male,"30,000 - 50,000",5-6 people,Rural,"20,001 - 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+36-45,Female,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+18-25,Male,"50,001 - 80,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Sampath
+26-35,Male,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+18-25,Female,"80,001 - 120,000",More than 6 people,Rural,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Weekly,Private Vehicle,Spar Super Markert
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",3-4 people,Suburban,"Above 40,000",Monthly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Sampath
+26-35,Male,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+26-35,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Arpico
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Less than once a month,Walking,Keells
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Arpico
+18-25,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Less than once a month,Public Transport,Sathosa
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Sathosa
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Sampath
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Arpico
+18-25,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Arpico
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"Above 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",5-6 people,Rural,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Arpico
+18-25,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+36-45,Female,"80,001 - 120,000",More than 6 people,Rural,"Above 40,000",Weekly,Taxi / Ride-hailing,Arpico
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Walking,Spar Super Markert
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Arpico
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"Above 40,000",Monthly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+36-45,Male,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+36-45,Female,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Walking,Spar Super Markert
+45-55,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Sathosa
+26-35,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Sathosa
+26-35,Male,"30,000 - 50,000",1-2 people,Rural,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+36-45,Prefer not to say,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Arpico
+36-45,Female,"50,001 - 80,000",1-2 people,Rural,"20,001 - 40,000",Monthly,Public Transport,Keells
+36-45,Female,"50,001 - 80,000",5-6 people,Rural,"20,001 - 40,000",Weekly,Public Transport,Cargills FoodCity
+36-45,Female,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Keells
+18-25,Male,"30,000 - 50,000",3-4 people,Suburban,"Below 10,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+18-25,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Sampath
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Female,"50,001 - 80,000",More than 6 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sampath
+36-45,Female,"80,001 - 120,000",5-6 people,Urban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Male,"Above 120,000",1-2 people,Suburban,"Above 40,000",Monthly,Other,Sampath
+36-45,Male,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Arpico
+18-25,Female,"80,001 - 120,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Arpico
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+26-35,Female,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Weekly,Taxi / Ride-hailing,Keells
+26-35,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Walking,Arpico
+18-25,Female,"80,001 - 120,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Prefer not to say,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Keells
+18-25,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Arpico
+26-35,Male,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Monthly,Walking,Sathosa
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+45-55,Female,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+45-55,Female,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Walking,Spar Super Markert
+36-45,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Monthly,Walking,Sampath
+45-55,Male,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Walking,Spar Super Markert
+26-35,Male,"80,001 - 120,000",5-6 people,Rural,"Above 40,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Walking,Sathosa
+36-45,Female,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Walking,Cargills FoodCity
+26-35,Female,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Bi-weekly,Public Transport,Keells
+18-25,Female,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+18-25,Female,"80,001 - 120,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Spar Super Markert
+18-25,Male,"30,000 - 50,000",1-2 people,Urban,"Below 10,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Male,"50,001 - 80,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+18-25,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Walking,Spar Super Markert
+18-25,Female,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Less than once a month,Taxi / Ride-hailing,Keells
+18-25,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Private Vehicle,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+26-35,Male,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Sampath
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"Below 10,000",Bi-weekly,Walking,Spar Super Markert
+18-25,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Spar Super Markert
+18-25,Male,"80,001 - 120,000",3-4 people,Rural,"Above 40,000",Monthly,Walking,Keells
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"Above 40,000",Monthly,Walking,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Keells
+36-45,Female,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Arpico
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+45-55,Female,"80,001 - 120,000",5-6 people,Rural,"10,000 - 20,000",Weekly,Private Vehicle,Sathosa
+26-35,Male,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Sampath
+36-45,Female,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Keells
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Public Transport,Sathosa
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Private Vehicle,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"80,001 - 120,000",5-6 people,Rural,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+36-45,Female,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Sathosa
+26-35,Male,"80,001 - 120,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Sathosa
+26-35,Male,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Spar Super Markert
+36-45,Male,"30,000 - 50,000",5-6 people,Suburban,"20,001 - 40,000",Weekly,Other,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Female,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+36-45,Female,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Private Vehicle,Spar Super Markert
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+18-25,Male,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+45-55,Female,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Private Vehicle,Spar Super Markert
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Spar Super Markert
+26-35,Male,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Glomark
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sampath
+26-35,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+26-35,Female,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Walking,Spar Super Markert
+18-25,Female,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Sathosa
+36-45,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Arpico
+36-45,Female,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Spar Super Markert
+26-35,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Walking,Cargills FoodCity
+45-55,Male,"30,000 - 50,000",5-6 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Spar Super Markert
+36-45,Female,"30,000 - 50,000",5-6 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Spar Super Markert
+45-55,Male,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Arpico
+45-55,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Glomark
+26-35,Male,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Monthly,Other,Spar Super Markert
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Sathosa
+45-55,Female,"Above 120,000",1-2 people,Rural,"20,001 - 40,000",Less than once a month,Taxi / Ride-hailing,Spar Super Markert
+36-45,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Walking,Arpico
+26-35,Female,"Below 30,000",1-2 people,Rural,"Below 10,000",Weekly,Public Transport,Keells
+18-25,Female,"50,001 - 80,000",3-4 people,Rural,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+36-45,Male,"80,001 - 120,000",5-6 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Keells
+36-45,Female,"80,001 - 120,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Keells
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Keells
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Other,Sampath
+26-35,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Arpico
+18-25,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+45-55,Male,"50,001 - 80,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Walking,Arpico
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Monthly,Public Transport,Spar Super Markert
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Walking,Keells
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Keells
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Male,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Keells
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Sampath
+36-45,Female,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Private Vehicle,Sampath
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Weekly,Walking,Sathosa
+18-25,Female,"50,001 - 80,000",5-6 people,Rural,"Above 40,000",Bi-weekly,Private Vehicle,Keells
+26-35,Female,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Male,"30,000 - 50,000",3-4 people,Urban,"20,001 - 40,000",Bi-weekly,Public Transport,Keells
+26-35,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Public Transport,Cargills FoodCity
+26-35,Female,"80,001 - 120,000",3-4 people,Suburban,"Above 40,000",Monthly,Other,Glomark
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Walking,Sathosa
+18-25,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Keells
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+18-25,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+45-55,Female,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Public Transport,Glomark
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+Below 18,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Female,"50,001 - 80,000",5-6 people,Rural,"20,001 - 40,000",Monthly,Walking,Sathosa
+36-45,Female,"30,000 - 50,000",3-4 people,Rural,"10,000 - 20,000",Monthly,Taxi / Ride-hailing,Sampath
+26-35,Female,"50,001 - 80,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Cargills FoodCity
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Private Vehicle,Arpico
+26-35,Male,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Bi-weekly,Public Transport,Cargills FoodCity
+18-25,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Bi-weekly,Walking,Arpico
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"Above 40,000",Bi-weekly,Taxi / Ride-hailing,Sathosa
+26-35,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Glomark
+26-35,Female,"80,001 - 120,000",5-6 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sampath
+18-25,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+45-55,Female,"50,001 - 80,000",5-6 people,Suburban,"Below 10,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Sathosa
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Taxi / Ride-hailing,Sampath
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sampath
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+26-35,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Glomark
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sampath
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Arpico
+18-25,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Glomark
+36-45,Female,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+26-35,Female,"50,001 - 80,000",1-2 people,Urban,"20,001 - 40,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"Below 10,000",Weekly,Private Vehicle,Keells
+45-55,Male,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sampath
+26-35,Female,"Below 30,000",5-6 people,Urban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Cargills FoodCity
+26-35,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+26-35,Male,"30,000 - 50,000",1-2 people,Urban,"20,001 - 40,000",Weekly,Public Transport,Cargills FoodCity
+45-55,Male,"50,001 - 80,000",3-4 people,Rural,"20,001 - 40,000",Monthly,Walking,Sampath
+18-25,Male,"30,000 - 50,000",3-4 people,Suburban,"Above 40,000",Bi-weekly,Public Transport,Arpico
+36-45,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Male,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+36-45,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Spar Super Markert
+45-55,Male,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Glomark
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Bi-weekly,Public Transport,Arpico
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Private Vehicle,Keells
+45-55,Male,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Weekly,Private Vehicle,Spar Super Markert
+45-55,Female,"50,001 - 80,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Private Vehicle,Keells
+45-55,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Sathosa
+36-45,Female,"30,000 - 50,000",3-4 people,Suburban,"10,000 - 20,000",Monthly,Public Transport,Cargills FoodCity
+36-45,Female,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Arpico
+36-45,Female,"30,000 - 50,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Glomark
+36-45,Female,"50,001 - 80,000",5-6 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Glomark
+26-35,Female,"50,001 - 80,000",3-4 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Glomark
+45-55,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+45-55,Female,"30,000 - 50,000",3-4 people,Urban,"10,000 - 20,000",Bi-weekly,Public Transport,Spar Super Markert
+26-35,Male,"Below 30,000",1-2 people,Urban,"Below 10,000",Weekly,Public Transport,Keells
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"20,001 - 40,000",Monthly,Public Transport,Cargills FoodCity
+45-55,Female,"30,000 - 50,000",1-2 people,Suburban,"10,000 - 20,000",Bi-weekly,Public Transport,Keells
+above 55,Female,"30,000 - 50,000",1-2 people,Urban,"10,000 - 20,000",Monthly,Private Vehicle,Cargills FoodCity
+36-45,Male,"50,001 - 80,000",1-2 people,Rural,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Spar Super Markert
+26-35,Female,"80,001 - 120,000",3-4 people,Suburban,"10,000 - 20,000",Bi-weekly,Taxi / Ride-hailing,Arpico
+45-55,Female,"50,001 - 80,000",5-6 people,Suburban,"20,001 - 40,000",Monthly,Taxi / Ride-hailing,Sampath
+45-55,Female,"50,001 - 80,000",3-4 people,Suburban,"Above 40,000",Monthly,Taxi / Ride-hailing,Arpico
+26-35,Male,"50,001 - 80,000",3-4 people,Suburban,"20,001 - 40,000",Monthly,Walking,Sathosa
+26-35,Male,"80,001 - 120,000",3-4 people,Urban,"20,001 - 40,000",Monthly,Private Vehicle,Keells
+26-35,Male,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Monthly,Public Transport,Arpico
+36-45,Male,"80,001 - 120,000",3-4 people,Suburban,"Above 40,000",Less than once a month,Public Transport,Arpico
+18-25,Male,"Below 30,000",1-2 people,Rural,"10,000 - 20,000",Bi-weekly,Private Vehicle,Sathosa
+45-55,Male,"80,001 - 120,000",5-6 people,Suburban,"Above 40,000",Monthly,Private Vehicle,Cargills FoodCity
+45-55,Male,"Above 120,000",5-6 people,Urban,"Above 40,000",Monthly,Other,Arpico
+36-45,Male,"80,001 - 120,000",3-4 people,Rural,"20,001 - 40,000",Bi-weekly,Walking,Glomark
+18-25,Male,"Below 30,000",1-2 people,Suburban,"10,000 - 20,000",Weekly,Public Transport,Keells
